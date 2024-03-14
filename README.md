@@ -6,7 +6,7 @@ Questo è il mio spazio online dove condivido i miei progetti, esercizi e scoper
 QUALCOSA SU DI ME:
 - 🌱 Attualmente sto studiando per diventare un front-end developer in EPICODE.
 - 💼 Cerco opportunità di apprendistato o stage nel settore.
-- 🎓 Laureato in Scienze della Couminicazione L-20.
+- 🎓 Laureato in Scienze della Comunicazione L-20.
 
 COMPETENZE:
 - 💻 HTML, CSS e JavaScript: Fondamentali per la creazione di interfacce web interattive e responsive.
