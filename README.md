@@ -1,16 +1,15 @@
-### Hi there 👋
+Benvenuto nel mio profilo GitHub! 👋
 
-<!--
-**lucabar21/lucabar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao! Sono Luca Barbuto, uno studente appassionato di tecnologia che sta perseguendo il sogno di diventare un front-end developer.
+Questo è il mio spazio online dove condivido i miei progetti, esercizi e scoperte.
 
-Here are some ideas to get you started:
+🌱 Attualmente sto studiando per diventare un front-end developer.
+💼 Cerco opportunità di apprendistato o stage nel settore.
+🎓 Laureato in Scienze della Couminicazione L-20.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 HTML, CSS e JavaScript: Fondamentali per la creazione di interfacce web interattive e responsive.
+🚀 Frameworks come React.js: Per la creazione di applicazioni web moderne e scalabili.
+🎨 Design e UX/UI: Per garantire un'esperienza utente coinvolgente e intuitiva.
+
+📧 Email: luca_barbuto@yahoo.it
+💼 LinkedIn: https://www.linkedin.com/in/luca-barbuto-03981369/
