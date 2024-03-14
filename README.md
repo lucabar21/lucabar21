@@ -19,3 +19,9 @@ FUN FACTS:
 CONTATTI:
 - 📧 Email: luca_barbuto@yahoo.it
 - 💼 LinkedIn: https://www.linkedin.com/in/luca-barbuto-03981369/
+
+- ![lucabar21's Stats](https://github-readme-stats.vercel.app/api?username=lucabar21&theme=react&show_icons=true&hide_border=false&count_private=false)
+
+- ![lucabar21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucabar21&theme=react&hide_border=false)
+
+- ![lucabar21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabar21&theme=react&show_icons=true&hide_border=false&layout=compact)
