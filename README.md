@@ -1,17 +1,20 @@
 <div><h2>Benvenuto nel mio profilo GitHub! 👋</h2>
   
-<p>Ciao sono Luca Barbuto, un appassionato di tecnologia che sta perseguendo il sogno di diventare un front-end developer.</p>
+<p>Ciao sono Luca Barbuto, ex professionista del mondo del graphic design, che si è riscoperto Front-end developer.</p>
 <p>Questo è il mio spazio online dove condivido i miei progetti, esercizi e scoperte.</p>
 <hr>
 <h3>QUALCOSA SU DI ME:</h3>
-<p> 🌱 Attualmente sto studiando per diventare un front-end developer in EPICODE.</p>
-<p> 💼 Cerco opportunità di apprendistato o stage nel settore.</p>
+<p> 🌱Ho da poco completato il mio percorso di studi come Full-Stack developer in EPICODE.</p>
+<p> 💼 Cerco opportunità di lavoro, che possano ulteriormente aiutarmi a crescere e a coltivare questa nuova passione che è il coding.</p>
 <p> 🎓 Laureato in Scienze della Comunicazione L-20.</p>
 <hr>
 <h3>COMPETENZE:</h3>
+<h4>Front-End</h4>
 <p> 💻 HTML, CSS e JavaScript: Fondamentali per la creazione di interfacce web interattive e responsive.</p>
 <p> 🚀 Frameworks come React.js: Per la creazione di applicazioni web moderne e scalabili.</p>
 <p> 🎨 Design e UX/UI: Per garantire un'esperienza utente coinvolgente e intuitiva.</p>
+<h4>Back-End</h4>
+<p>  Php e Laravel: Per la gestione delle logiche di back end e database e per l'integrazione di API.</p>
 <hr>
 <h3>FUN FACTS:</h3>
 <p> 🎨 In un'altra vita sono stato un graphic designer.</p>
