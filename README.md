@@ -11,7 +11,7 @@
 <h3>COMPETENZE:</h3>
 <h4>Front-End</h4>
 <p> 💻 HTML, CSS e JavaScript: Fondamentali per la creazione di interfacce web interattive e responsive.</p>
-<p> 🚀 Frameworks come React.js: Per la creazione di applicazioni web moderne e scalabili.</p>
+<p> 🚀 Frameworks come React e Angular: Per la creazione di applicazioni web moderne e scalabili.</p>
 <p> 🎨 Design e UX/UI: Per garantire un'esperienza utente coinvolgente e intuitiva.</p>
 <h4>Back-End</h4>
 <p> 🧑🏻‍💻 Php e Laravel: Per la gestione delle logiche di back end e database e per l'integrazione di API.</p>
